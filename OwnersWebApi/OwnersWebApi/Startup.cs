@@ -18,6 +18,7 @@ namespace OwnersWebApi
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
+            //Code Was Added On Github
         }
 
         public IConfiguration Configuration { get; }
